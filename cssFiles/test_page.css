@@ -1,0 +1,18 @@
+.button-setup {
+  background-color: blue;
+  margin: auto;
+  padding: 3%;
+}
+
+.button1 {
+  align-content: left;
+  padding-right: 10%;
+}
+
+.button2 {
+  align-content: middle;
+}
+
+.button3 {
+  align-content: right;
+}

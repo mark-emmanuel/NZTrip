@@ -1,0 +1,18 @@
+/* Style the navbar */
+#navbar {
+  overflow: hidden;
+  position: fixed;
+  background-color: #333;
+  width: max-content;
+  margin-bottom: 5%;
+}
+
+/* Navbar links */
+#navbar a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 8px;
+  text-decoration: none;
+}
